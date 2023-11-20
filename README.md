@@ -23,7 +23,7 @@
     	</td>
       <td align="center">
     	    <a href="https://github.com/ununbium12">
-    	    	<img src="https://avatars.githubusercontent.com/u/62270266?v=4?s=100" width="100px;" alt=""/>
+    	    	<img src="https://avatars.githubusercontent.com/u/62270408?v=4?s=100" width="100px;" alt=""/>
     				<br/>
     					<sub>
     					<b>정다훈</b>
